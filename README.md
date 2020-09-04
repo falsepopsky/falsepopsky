@@ -1,16 +1,27 @@
-### Hi there 👋
+### Hello everyone 👋
 
-<!--
-**falsepopsky/falsepopsky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🌱 I’m currently learning ...
 
-Here are some ideas to get you started:
+- Algorithms 💥
+- Linux 🐧
+- Docker 🐋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### 📚 Reading some of this books:
+
+- Express in Action - Evan M. Hahn
+- Node js Design Patterns 3rd Edition
+- You Don't Know JS (Series)
+- Clean Code in JavaScript (Packt)
+
+
+### Technologies:
+
+![JavaScript](https://img.shields.io/badge/-Javascript-black??style=flat&logo=javascript)
+![Nodejs](https://img.shields.io/badge/Node.js-3F3E42??style=flat&logo=Node.js)
+
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791??style=flat&logo=PostgreSQL)
+![MongoDB](https://img.shields.io/badge/MongoDB-3F3E42??style=flat&logo=mongodb)
+![MySQL](https://img.shields.io/badge/MySQL-F29111??style=flat&logo=mysql)
+
